@@ -1,0 +1,16 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+E:/Sync/courses/lab06/lab06.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+E:/Sync/courses/lab06/lab06.srcs/sim_1/new/top_tb.v,1681720562,verilog,,,,top_tb,,,,,,,,
+E:/Sync/courses/lab06/lab06.srcs/sources_1/imports/new/ALU.v,1681709721,verilog,,E:/Sync/courses/lab06/lab06.srcs/sources_1/imports/new/ALUCtr.v,,ALU,,,,,,,,
+E:/Sync/courses/lab06/lab06.srcs/sources_1/imports/new/ALUCtr.v,1681714525,verilog,,E:/Sync/courses/lab06/lab06.srcs/sources_1/new/Cache.v,,ALUCtr,,,,,,,,
+E:/Sync/courses/lab06/lab06.srcs/sources_1/imports/new/Ctr.v,1681709881,verilog,,E:/Sync/courses/lab06/lab06.srcs/sources_1/imports/new/InstMem.v,,Ctr,,,,,,,,
+E:/Sync/courses/lab06/lab06.srcs/sources_1/imports/new/InstMem.v,1681720706,verilog,,E:/Sync/courses/lab06/lab06.srcs/sources_1/imports/new/Mux.v,,instMemory,,,,,,,,
+E:/Sync/courses/lab06/lab06.srcs/sources_1/imports/new/Mux.v,1681713780,verilog,,E:/Sync/courses/lab06/lab06.srcs/sources_1/imports/new/Registers.v,,Mux_32bits;Mux_5bits,,,,,,,,
+E:/Sync/courses/lab06/lab06.srcs/sources_1/imports/new/Registers.v,1681711891,verilog,,E:/Sync/courses/lab06/lab06.srcs/sources_1/imports/new/dataMemory.v,,Registers,,,,,,,,
+E:/Sync/courses/lab06/lab06.srcs/sources_1/imports/new/dataMemory.v,1681712273,verilog,,E:/Sync/courses/lab06/lab06.srcs/sources_1/imports/new/signext.v,,dataMemory,,,,,,,,
+E:/Sync/courses/lab06/lab06.srcs/sources_1/imports/new/signext.v,1681712308,verilog,,E:/Sync/courses/lab06/lab06.srcs/sources_1/imports/new/top.v,,signext,,,,,,,,
+E:/Sync/courses/lab06/lab06.srcs/sources_1/imports/new/top.v,1681715381,verilog,,E:/Sync/courses/lab06/lab06.srcs/sim_1/new/top_tb.v,,top,,,,,,,,
+E:/Sync/courses/lab06/lab06.srcs/sources_1/new/Cache.v,1672684050,verilog,,E:/Sync/courses/lab06/lab06.srcs/sources_1/imports/new/Ctr.v,,Cache,,,,,,,,
